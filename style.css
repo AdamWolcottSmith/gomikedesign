@@ -659,6 +659,14 @@ label,
   color: #fff;
 }
 
+.quote {
+  color: #000;
+}
+
+.quote strong {
+  color: #000;
+}
+
 li a {
   color: #fff;
 }
